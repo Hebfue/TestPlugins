@@ -1,0 +1,31 @@
+JSON
+[
+  {
+    "name": "CinemaCity Example",
+    "className": "com.example.ExampleProvider",
+    "tvTypes": ["Movie"],
+    "lang": "en"
+  }
+]
+4. Click the green **Commit changes...** button at the top right, then click **Commit changes** again to save it.
+
+---
+
+### Step 2: Where to Find and Edit Your Code File
+Now, let's find your Kotlin file to make sure your code is pasted correctly. Looking at your file list, your provider folder is named `ExampleProvider` instead of `app`. 
+
+1. Go back to the main page of your repository.
+2. Click on the folder named **`ExampleProvider`**.
+3. Click through the following folders as they appear: **`src`** ➔ **`main`** ➔ **`kotlin`** ➔ **`com`** ➔ **`example`**.
+4. Inside the `example` folder, click on the **`ExampleProvider.kt`** file.
+5. Click the **Pencil Icon** (Edit this file) in the top right.
+6. Delete whatever text is currently inside, paste your complete Kotlin code (with the `search` and `loadLinks` functions you shared earlier), and click the green **Commit changes...** button to save it.
+
+---
+
+### Step 3: What to Do Next
+Once you finish Step 1 and Step 2, look at the top menu bar of your repository website page and click on the **Actions** tab. 
+
+You will see a yellow spinning circle indicating that GitHub is compiling your code into an Android extension. Wait a few minutes until that circle turns into a **Green Checkmark (✅)**. 
+
+Once it's green, let me know and we will grab your final installation link!
